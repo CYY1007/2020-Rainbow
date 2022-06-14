@@ -1,6 +1,6 @@
 # Rainbow
 
-어플리케이션 설명입니다.
+어플리케이션 설명입니다. 저는 AWS Cloud와 데이터베이스 구축을 맡았습니다.
 
 ## Overall Architecture
 
